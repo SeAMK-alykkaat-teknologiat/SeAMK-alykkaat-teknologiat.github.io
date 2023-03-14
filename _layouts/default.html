@@ -10,15 +10,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-    <style>
-      img {
-        border-radius: 50%;
-        position: absolute;
-        right: 200px;
-        top: 30px;
-      }
-      </style>
+    {% include head-custom.html %}    
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -32,8 +24,7 @@
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-      <img src="/assets/images/logot-kehyksella.PNG" alt="Rahoittajien logot" style="width: 220px;height:220px;">
+      {% endif %}      
     </header>
     
 
