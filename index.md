@@ -12,7 +12,3 @@ Jatkuvan oppisen alustalla tuotetut materiaalit ovat käytettävissä [Creative 
 
 
 
-## Tapahtumat
----
-## Uutiset
-
