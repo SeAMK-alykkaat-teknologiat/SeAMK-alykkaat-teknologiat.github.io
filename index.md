@@ -9,7 +9,7 @@ Jatkuvan oppimisen alustalle on kerätty hanketoiminnan tuloksina syntyneitä ju
 |----|----|
 | Tuotekehityksen Stage-Gate esimerkki | [Tuotekehityksen Stage-Gate esimerkki](https://github.com/SeAMK-alykkaat-teknologiat/Tuotekehitys-Stage-Gate-esimerkki.git) |
 | Tuotekehityksen ROI-laskuri | [Tuotekehityksen ROI-laskuri](https://github.com/SeAMK-alykkaat-teknologiat/Tuotekehitys-ROI-tuotekehityslaskuri.git)|
-| TehoData-hankkeen julkaisu kävijälaskurista (julkaistu SeAMKedussa) | [Tosipaikka hankkeen julkaisu (SeAMKin hanketoiminnan tuloksia, julkaistu GitHubissa SeAMKedu)](https://github.com/SeAMKedu/visitorCount.git)|
+| TehoData-hankkeen julkaisu kävijälaskurista (julkaistu SeAMKedussa) | [Kävijälaskuri](https://github.com/SeAMKedu/visitorCount.git)|
 
 
 
