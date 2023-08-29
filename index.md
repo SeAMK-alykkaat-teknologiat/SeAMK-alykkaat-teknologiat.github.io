@@ -15,7 +15,7 @@ Jatkuvan oppimisen alustalle on kerätty hanketoiminnan tuloksina syntyneitä ju
 
 ## Verkkosivut
 
-| Hanke | Linkki verkkosivuille |
+| Hanke | Linkki verkkosivulle |
 |----|----|
 | Robovalmis-hankkeen verkkosivut (DEMO!) | [Robovalmis](https://tekniikka.seamk.fi/robovalmis/)|
 | Tuotekehitys-hankkeen verkkosivut (DEMO!) | [Tuotekehitys](https://tekniikka.seamk.fi/tuotekehitys/)|
